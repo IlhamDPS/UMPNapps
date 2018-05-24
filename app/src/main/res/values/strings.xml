@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">UMPN apps</string>
+    <string name="refresh">refresh</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_side_drawer">side_drawer</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_home" />
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="paragraf"> </string>
+    <string name="PNJ">POLITEKNIK NEGERI JAKARTA</string>
+    <string name="paragraf1">Politeknik Negeri Jakarta, sejarahnya bermula dari fakultas non gelar teknologi Universitas Indonesia (FNGT-UI), yang kemudian menjadi Politeknik Universitas Indonesia.
+
+Politeknik Universitas Indonesia didirikan 20 September 1982, sejak 25 Agustus 1998 menjadi mandiri dengan nama Politeknik Negei Jakarta berdasarkan Surat Keputusan Menteri Pendidikan dan Kebudayaan nomor: 207/O/1998.
+
+Ketika didirikan, dibuka 3 jurusan: Jurusan Teknik Mesin, Teknik Sipil dan Teknik Elektro. Menyusul tahun 1986 dibuka jurusan Tata Niaga, yang selanjutnya dikembangkan menjadi Jurusan Akuntansi dan Jurusan Administrasi Niaga. Pada tahun 1990 dibuka Jurusan Teknik Grafika dan Penerbitan, hasil kerjasama antara Politeknik Universitas Indonesia (Politeknik Negeri Jakarta) dengan Pusat Grafika Indonesia. Kemudian bekerjasama dengan PT Trakindo Utama, dibuka Program Studi Alat Berat dibawah Jurusan Teknik Mesin yang dimulai tahun ajaran 2001-2002. Pada tahun 2003 bekerjasama dengan PT Jasa Marga, dibuka Program Diploma IV Jalan Tol.
+
+</string>
+    <string name="paragraf2">Pada saat ini Politeknik Negeri Jakarta (PNJ) yang merupakan pendidikan tinggi vokasi mempunyai tujuh jurusan dan 34 program studi dengan jenjang Diploma (A.Md.) dan Sarjana Terapan (S.Tr.). Pada tahun 2016, Jurusan Teknik Elektro telah membuka Program Magister Terapan Teknik Elektro (MTTE) dengan gelar M.Tr. Para lulusan PNJ telah melakukan uji kompetensi kepada 1600 lulusan sebagai wujud Permenristekdikti Nomor 14 tahun 2015, yang bertujuan menyiapkan lulusan yang kompeten.
+
+Politeknik Negeri Jakarta (PNJ) merupakan lembaga pendidikan tinggi Diploma III yang didirikan untuk memenuhi kebutuhan SDM profesional di industri, baik industri jasa maupun industri manufaktur. Pembelajaran di PNJ mengaplikasikan Kurikulum Nasional (Kurnas) pendidikan profesional secara bertanggung jawab dengan didukung oleh dosen-dosen profesional. Sistemnya adalah dengan mempertemukan ilmu dan teknologi sesuai komposisi teori 55% dan praktek 45% yang diaplikasikan secara harmonis untuk menghasilkan lulusan yang profesional dan memenuhi kualifikasi industri.</string>
+    <string name="tik">logotik</string>
+    <string name="ts">ts</string>
+</resources>

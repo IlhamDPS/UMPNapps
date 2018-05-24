@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.fathurrahmanhaikal.umpnapps.about_jurusan">
+
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/tik">
+
+            <ImageView
+
+                android:layout_width="match_parent"
+                android:layout_height="60pt"
+                android:layout_marginVertical="10pt"
+                android:src="@drawable/tikpnj"
+                android:id="@+id/logotik"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/tik"
+                android:layout_below="@+id/logotik"/>
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/ts"
+            android:layout_toRightOf="@+id/tik"/>
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="60pt"
+                android:src="@drawable/hmspnj"
+                android:layout_marginVertical="10pt"
+                android:id="@+id/logots"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/ts"
+                android:layout_below="@+id/logots"
+                />
+
+
+    </LinearLayout>
+
